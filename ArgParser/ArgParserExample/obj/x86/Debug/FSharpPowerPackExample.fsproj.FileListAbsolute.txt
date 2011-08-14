@@ -1,0 +1,8 @@
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\bin\Debug\FSharpPowerPackExample.XML
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\bin\Debug\FSharpPowerPackExample.exe
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\bin\Debug\FSharpPowerPackExample.pdb
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\bin\Debug\FSharp.PowerPack.dll
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\bin\Debug\FSharp.PowerPack.xml
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\obj\x86\Debug\FSharpPowerPackExample.exe
+c:\git\FSharpPowerPackExample\FSharpPowerPackExample\obj\x86\Debug\FSharpPowerPackExample.pdb
