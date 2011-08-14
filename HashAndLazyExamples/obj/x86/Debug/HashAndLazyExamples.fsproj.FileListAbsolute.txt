@@ -1,0 +1,8 @@
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\bin\Debug\HashAndLazyExamples.XML
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\bin\Debug\HashAndLazyExamples.exe
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\bin\Debug\HashAndLazyExamples.pdb
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\bin\Debug\FSharp.PowerPack.dll
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\bin\Debug\FSharp.PowerPack.xml
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\obj\x86\Debug\HashAndLazyExamples.exe
+c:\git\FSharpPowerPackExample\HashAndLazyExamples\obj\x86\Debug\HashAndLazyExamples.pdb
