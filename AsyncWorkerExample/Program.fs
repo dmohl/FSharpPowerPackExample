@@ -1,7 +1,5 @@
 ﻿open Microsoft.FSharp.Control
 
-
-
 let rec job = async {   
         for i in 1 .. 20 do  
             printfn "doing some work"
