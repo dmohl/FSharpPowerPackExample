@@ -1,0 +1,8 @@
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\bin\Debug\AsyncStreamReaderExample.XML
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\bin\Debug\AsyncStreamReaderExample.exe
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\bin\Debug\AsyncStreamReaderExample.pdb
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\bin\Debug\FSharp.PowerPack.dll
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\bin\Debug\FSharp.PowerPack.xml
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\obj\x86\Debug\AsyncStreamReaderExample.exe
+c:\git\FSharpPowerPackExample\AsyncStreamReaderExample\obj\x86\Debug\AsyncStreamReaderExample.pdb

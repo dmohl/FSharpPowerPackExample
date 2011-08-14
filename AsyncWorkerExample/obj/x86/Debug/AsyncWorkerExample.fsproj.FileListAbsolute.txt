@@ -1,0 +1,8 @@
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\bin\Debug\AsyncWorkerExample.XML
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\bin\Debug\AsyncWorkerExample.exe
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\bin\Debug\AsyncWorkerExample.pdb
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\bin\Debug\FSharp.PowerPack.dll
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\bin\Debug\FSharp.PowerPack.xml
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\obj\x86\Debug\AsyncWorkerExample.exe
+c:\git\FSharpPowerPackExample\AsyncWorkerExample\obj\x86\Debug\AsyncWorkerExample.pdb

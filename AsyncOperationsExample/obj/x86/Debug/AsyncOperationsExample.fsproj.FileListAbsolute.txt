@@ -1,0 +1,8 @@
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\bin\Debug\AsyncOperationsExample.XML
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\bin\Debug\AsyncOperationsExample.exe
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\bin\Debug\AsyncOperationsExample.pdb
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\bin\Debug\FSharp.PowerPack.dll
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\bin\Debug\FSharp.PowerPack.xml
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\obj\x86\Debug\AsyncOperationsExample.exe
+c:\git\FSharpPowerPackExample\AsyncOperationsExample\obj\x86\Debug\AsyncOperationsExample.pdb
