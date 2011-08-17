@@ -1,0 +1,8 @@
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\bin\Debug\Language.XML
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\bin\Debug\Language.exe
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\bin\Debug\Language.pdb
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\obj\x86\Debug\Lexer.fs
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\obj\x86\Debug\Parser.fs
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\obj\x86\Debug\Language.exe
+C:\git\FSharpPowerPackExample\FParsedLanguageStarterExample\FParsedLanguageStarterExample\obj\x86\Debug\Language.pdb
